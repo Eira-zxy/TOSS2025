@@ -1,0 +1,8 @@
+[package]
+name = "rust_mindmap"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+petgraph = "0.6"  # 图数据结构
+svg = "0.13"      # SVG生成
